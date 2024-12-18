@@ -22,3 +22,4 @@ Empate 🤝
 
 [Descargar]([URL](https://github.com/davikho/game_piedra_papel_tijera/blob/3d10070914e92e9907bf94c6cc467deaf16d1c42/app-debug.apk)) ⬇️
 
+https://github.com/davikho/game_piedra_papel_tijera/blob/3d10070914e92e9907bf94c6cc467deaf16d1c42/app-debug.apk
